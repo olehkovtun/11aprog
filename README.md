@@ -1,1 +1,1 @@
-Mans pirmais git projekts
+my first progect
